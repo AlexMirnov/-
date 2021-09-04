@@ -1,0 +1,22 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&family=Lobster&display=swap');
+.newfont1 { font-family: 'Lobster', cursive; font-size: 25pt;color: white;white-space: normal;}
+.newfont2 { font-family: 'Caveat', cursive; font-size: 15pt;color: white;}
+.newfont3 { font-family: 'Caveat', cursive; font-size: 25pt;color: white;white-space: nowrap;}
+.newfont4 { font-family: 'Caveat', cursive; font-size: 14pt;color: white;white-space: normal;}
+* {padding: 0px; margin: 0px;border-spacing: 0;white-space:nowrap;}
+.background {background: url(https://i.imgur.com/hGhkXHe.jpg) no-repeat fixed;background-size: cover;height: 100%;position: fixed;top: 0;left: 0;text-overflow: ellipsis;}
+.bodysen {background-color: #000000;background-color:rgba(0, 0, 0, 0.7);} 
+.radius1 {background-color: #000000;background-color:rgba(0, 0, 0, 0.7); border-radius: 50px 0 0 50px;}
+.radius2 {background-color: #000000;background-color:rgba(0, 0, 0, 0.7); border-radius: 0 50px 50px 0;}
+.size_tab {width: 100px}
+#footer {
+position: fixed; /* Фиксированное положение */
+left: 0; bottom: 0; /* Левый нижний угол */
+width: 100%; /* Ширина слоя */
+}
+body {height: 100%; width: 100%;}
+.buttons {background-color: #005fa0; border-radius: 10px;color: white;background-repeat: repeat-x;}
+.buttons:hover {background-color: #00538d; border-radius: 10px;color: red;background-repeat: repeat-x;}
+.doneteImg {width: 20px;margin-top:1%;}
+a {text-decoration: none;}
