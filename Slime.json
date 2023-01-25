@@ -430,6 +430,406 @@
         "Vento of the Front": "/proxy/api/mangadex/chapter/87d797f2-5261-4c79-9158-17026f963f0e"
       }
     },
+    "15": {
+      "title": "Изменения в Большом лесу",
+      "volume": "3",
+      "last_updated": "1674605981",
+      "groups": {
+        "Vento of the Front": "/proxy/api/mangadex/chapter/056f52d2-8989-484e-a402-7d8bbdd61cd5"
+      }
+    },
+    "16": {
+      "title": "Прибытие Гэбила",
+      "volume": "3",
+      "last_updated": "1674606106",
+      "groups": {
+        "Vento of the Front": "/proxy/api/mangadex/chapter/a3ca58aa-88fa-4dd3-85c2-5de3cab487f6"
+      }
+    },
+    "17": {
+      "title": "Гэбил против Гобуты",
+      "volume": "3",
+      "last_updated": "1674606132",
+      "groups": {
+        "Vento of the Front": "/proxy/api/mangadex/chapter/2b62633e-330e-4eb4-8f2f-1dad0a62237e"
+      }
+    },
+    "18": {
+      "title": "Механизмы судьбы",
+      "volume": "4",
+      "last_updated": "1674606165",
+      "groups": {
+        "Vento of the Front": "/proxy/api/mangadex/chapter/193b4fd0-36ca-4338-a25a-f8aed5f9b39c"
+      }
+    },
+    "19": {
+      "title": "Поддельное преимущество",
+      "volume": "4",
+      "last_updated": "1674606192",
+      "groups": {
+        "DTProject": "/proxy/api/mangadex/chapter/7e89272a-1820-498a-8ee0-3125d101c79f"
+      }
+    },
+    "20": {
+      "title": "На встречу с Лорд Орком",
+      "volume": "4",
+      "last_updated": "1674606265",
+      "groups": {
+        "DTProject": "/proxy/api/mangadex/chapter/944511ff-3a3e-4a93-b879-e92561f7f086"
+      }
+    },
+    "21": {
+      "title": "Волны на поле боя",
+      "volume": "4",
+      "last_updated": "1674606326",
+      "groups": {
+        "DTProject": "/proxy/api/mangadex/chapter/a0a7b735-5b63-4e7d-a1cb-675755c7c18c"
+      }
+    },
+    "22": {
+      "title": "Смертельная буря",
+      "volume": "4",
+      "last_updated": "1674606448",
+      "groups": {
+        "DTProject": "/proxy/api/mangadex/chapter/ad3f8838-27ce-4459-a166-3d038c50417f"
+      }
+    },
+    "23": {
+      "title": "Бедствие Орков",
+      "volume": "5",
+      "last_updated": "1674606475",
+      "groups": {
+        "DTProject": "/proxy/api/mangadex/chapter/76cad8ea-467c-4d1a-9713-89b4c9ce2a12"
+      }
+    },
+    "24": {
+      "title": "То, что пожирает всй",
+      "volume": "5",
+      "last_updated": "1674606535",
+      "groups": {
+        "DTProject": "/proxy/api/mangadex/chapter/e0019501-0a97-4ed3-b42c-8d5df0db0a73"
+      }
+    },
+    "26": {
+      "title": "Альянс леса Джура",
+      "volume": "5",
+      "last_updated": "1674606579",
+      "groups": {
+        "DTProject": "/proxy/api/mangadex/chapter/ccc8e48d-56b3-43a1-b31c-5b6771cb01c8"
+      }
+    },
+    "27": {
+      "title": "Место для отдыха",
+      "volume": "5",
+      "last_updated": "1674606700",
+      "groups": {
+        "DTProject": "/proxy/api/mangadex/chapter/e897ea9a-f552-4c4f-99b9-1dbbf7845375"
+      }
+    },
+    "28": {
+      "title": "Те, кто следят за городом монстров",
+      "volume": "6",
+      "last_updated": "1674606739",
+      "groups": {
+        "DTProject": "/proxy/api/mangadex/chapter/f9b8b608-23a0-4ce5-914c-de968f5c76e7"
+      }
+    },
+    "29": {
+      "title": "Переговоры с Демон-лордом",
+      "volume": "6",
+      "last_updated": "1674606766",
+      "groups": {
+        "DTProject": "/proxy/api/mangadex/chapter/9f751d15-42e3-4075-925c-95eb79a5a061"
+      }
+    },
+    "30": {
+      "title": " Прибытие Демон-лорда",
+      "volume": "6",
+      "last_updated": "1674606818",
+      "groups": {
+        "DTProject": "/proxy/api/mangadex/chapter/e3e65f7d-152e-4299-8af5-9ec55afaedcb"
+      }
+    },
+    "31": {
+      "title": "Вихрь Милим. Часть 1",
+      "volume": "6",
+      "last_updated": "1674606857",
+      "groups": {
+        "DTProject": "/proxy/api/mangadex/chapter/4ce35e12-53b3-4396-839c-f53fae2fcaff"
+      }
+    },
+    "32": {
+      "title": "Вихрь Милим. Часть 2",
+      "volume": "7",
+      "last_updated": "1674606935",
+      "groups": {
+        "DTProject": "/proxy/api/mangadex/chapter/9e4b923e-a86b-4c83-9a20-39ddf10152ca"
+      }
+    },
+    "33": {
+      "title": " Замысел Демон-лордов",
+      "volume": "7",
+      "last_updated": "1674606956",
+      "groups": {
+        "DTProject": "/proxy/api/mangadex/chapter/9d9ee658-c8e3-4cd3-83a5-ad23f28c4493"
+      }
+    },
+    "34": {
+      "title": "Те, кто собрались в стране монстров",
+      "volume": "7",
+      "last_updated": "1674607021",
+      "groups": {
+        "DTProject": "/proxy/api/mangadex/chapter/2cff70f8-65a5-47f7-ac96-3c264e9178e8"
+      }
+    },
+    "35": {
+      "title": "План по превращению Йому в героя",
+      "volume": "7",
+      "last_updated": "1674607040",
+      "groups": {
+        "DTProject": "/proxy/api/mangadex/chapter/b47cbb93-70cc-4169-b3c3-9efd71fdb901"
+      }
+    },
+    "36": {
+      "title": "Весть управляющей",
+      "volume": "8",
+      "last_updated": "1674607074",
+      "groups": {
+        "DTProject": "/proxy/api/mangadex/chapter/f8892217-0556-4a7a-9167-8d92a1675f4e"
+      }
+    },
+    "37": {
+      "title": "Харибда",
+      "volume": "8",
+      "last_updated": "1674607103",
+      "groups": {
+        "DTProject": "/proxy/api/mangadex/chapter/5f38a8e7-a408-44fb-90c3-08413fa6a684"
+      }
+    },
+    "38": {
+      "title": "Тиран разрушения",
+      "volume": "8",
+      "last_updated": "1674607124",
+      "groups": {
+        "DTProject": "/proxy/api/mangadex/chapter/0510cd44-59f0-4f8b-a420-5906ea571412"
+      }
+    },
+    "39": {
+      "title": "Мы всё больше похожи на страну",
+      "volume": "8",
+      "last_updated": "1674607161",
+      "groups": {
+        "DTProject": "/proxy/api/mangadex/chapter/523d1b84-c798-4460-a75f-3bbd9f017783"
+      }
+    },
+    "40": {
+      "title": "Торговля с Юразанией",
+      "volume": "9",
+      "last_updated": "1674607187",
+      "groups": {
+        "DTProject": "/proxy/api/mangadex/chapter/97a0ae55-b8e8-4424-9fdf-a1d55a184275"
+      }
+    },
+    "41": {
+      "title": "Приглашение от короля Газеля. Часть 1",
+      "volume": "9",
+      "last_updated": "1674607216",
+      "groups": {
+        "DTProject": "/proxy/api/mangadex/chapter/15287790-3d39-4b59-bba9-f779cef84ba5"
+      }
+    },
+    "42": {
+      "title": "Приглашение от короля Газеля. Часть 2",
+      "volume": "9",
+      "last_updated": "1674607237",
+      "groups": {
+        "DTProject": "/proxy/api/mangadex/chapter/4b88a3b9-7572-414a-b688-4925da7b69aa"
+      }
+    },
+    "43": {
+      "title": "К королевству людей",
+      "volume": "9",
+      "last_updated": "1674607265",
+      "groups": {
+        "DTProject": "/proxy/api/mangadex/chapter/70c969d5-8817-41fa-a221-fac7d3709b6b"
+      }
+    },
+    "44": {
+      "title": "В королевстве Брумунд. Часть 1",
+      "volume": "10",
+      "last_updated": "1674607287",
+      "groups": {
+        "DTProject": "/proxy/api/mangadex/chapter/0cdbef3f-888c-4383-a959-84112168176c"
+      }
+    },
+    "45": {
+      "title": "В королевстве Брумунд. Часть 2",
+      "volume": "10",
+      "last_updated": "1674607374",
+      "groups": {
+        "DTProject": "/proxy/api/mangadex/chapter/43425102-078b-499e-874c-63b986e6cc1b"
+      }
+    },
+    "46": {
+      "title": "Юки Кагурадзака",
+      "volume": "10",
+      "last_updated": "1674607400",
+      "groups": {
+        "DTProject": "/proxy/api/mangadex/chapter/2796a0df-af28-4825-8565-c888e61d2056"
+      }
+    },
+    "47": {
+      "title": "Быть храбрецом - невыгодно",
+      "volume": "10",
+      "last_updated": "1674607485",
+      "groups": {
+        "DTProject": "/proxy/api/mangadex/chapter/209e4a54-a46e-4b1b-b521-e71940cb1413"
+      }
+    },
+    "48": {
+      "title": "Роль учителя",
+      "volume": "11",
+      "last_updated": "1674607519",
+      "groups": {
+        "DTProject": "/proxy/api/mangadex/chapter/6a6984bb-48f5-4b20-9618-206cf06f3ee1"
+      }
+    },
+    "49": {
+      "title": "Великий купец Гард Мьормайлз",
+      "volume": "11",
+      "last_updated": "1674607542",
+      "groups": {
+        "DTProject": "/proxy/api/mangadex/chapter/5ec46984-892e-4023-a0a8-cc4a427c4062"
+      }
+    },
+    "50": {
+      "title": "Пристанище духов",
+      "volume": "11",
+      "last_updated": "1674607574",
+      "groups": {
+        "DTProject": "/proxy/api/mangadex/chapter/c1e2aa1a-bb44-436e-93f8-ac5087fee9f5"
+      }
+    },
+    "51": {
+      "title": "Королева духов",
+      "volume": "11",
+      "last_updated": "1674607612",
+      "groups": {
+        "DTProject": "/proxy/api/mangadex/chapter/ae57bf87-3fc3-4cca-a6cf-5e76190a2a5f"
+      }
+    },
+    "52": {
+      "title": "Спасённые души",
+      "volume": "11",
+      "last_updated": "1674607631",
+      "groups": {
+        "DTProject": "/proxy/api/mangadex/chapter/4921a77d-58d3-4a23-86b4-fae1cebf437a"
+      }
+    },
+    "53": {
+      "title": "Ведьма Мюлан",
+      "volume": "12",
+      "last_updated": "1674607656",
+      "groups": {
+        "DTProject": "/proxy/api/mangadex/chapter/bb26ee4e-7761-4351-a9e7-f095ca5113ed"
+      }
+    },
+    "54": {
+      "title": "Прелюдия бедствия + Экстра",
+      "volume": "12",
+      "last_updated": "1674607680",
+      "groups": {
+        "DTProject": "/proxy/api/mangadex/chapter/4ec7217b-bce3-4eb0-bc2e-f512025e3b21"
+      }
+    },
+    "55": {
+      "title": "Естественный враг монстров",
+      "volume": "12",
+      "last_updated": "1674607718",
+      "groups": {
+        "DTProject": "/proxy/api/mangadex/chapter/eb0709b1-6608-4905-9b8c-d252bb8389bb"
+      }
+    },
+    "56": {
+      "title": "Переплетение мыслей",
+      "volume": "12",
+      "last_updated": "1674607739",
+      "groups": {
+        "DTProject": "/proxy/api/mangadex/chapter/a0cea538-9ed8-4aa6-84f9-4579ba307a22"
+      }
+    },
+    "57": {
+      "title": "Буревестники",
+      "volume": "12",
+      "last_updated": "1674607760",
+      "groups": {
+        "DTProject": "/proxy/api/mangadex/chapter/ea000490-f415-4b8b-a402-67a00bd4949b"
+      }
+    },
+    "58": {
+      "title": "Бедствие",
+      "volume": "12",
+      "last_updated": "1674607782",
+      "groups": {
+        "DTProject": "/proxy/api/mangadex/chapter/d0fbce7d-fd39-4cb3-9247-868654df701c"
+      }
+    },
+    "59": {
+      "title": "Отчаяние и надежда",
+      "volume": "13",
+      "last_updated": "1674607800",
+      "groups": {
+        "DTProject": "/proxy/api/mangadex/chapter/f391d338-f7ee-49c8-be02-e7c9a8adb04f"
+      }
+    },
+    "60": {
+      "title": "Условия надежды",
+      "volume": "13",
+      "last_updated": "1674607839",
+      "groups": {
+        "DTProject": "/proxy/api/mangadex/chapter/aff0e337-e4cb-45de-bc08-5c5f5cac209a"
+      }
+    },
+    "61": {
+      "title": "Наказание для ведьмы",
+      "volume": "13",
+      "last_updated": "1674607857",
+      "groups": {
+        "DTProject": "/proxy/api/mangadex/chapter/93b7ea95-37f1-4953-90e0-7d7f2c86e227"
+      }
+    },
+    "62": {
+      "title": "Неважно, монстр или человек",
+      "volume": "13",
+      "last_updated": "1674607889",
+      "groups": {
+        "DTProject": "/proxy/api/mangadex/chapter/4d53051a-60c2-4dc8-928c-b49b7dad1926"
+      }
+    },
+    "63": {
+      "title": "Время контратаки",
+      "volume": "13",
+      "last_updated": "1674607927",
+      "groups": {
+        "DTProject": "/proxy/api/mangadex/chapter/a004747a-005e-42c1-8e43-2ac5b818110c"
+      }
+    },
+    "64": {
+      "title": "Разница в силе",
+      "volume": "14",
+      "last_updated": "1674607964",
+      "groups": {
+        "DTProject": "/proxy/api/imgur/chapter/mm2lzu1"
+      }
+    },
+    "65": {
+      "title": "Мегиддо (Божественная ярость)",
+      "volume": "14",
+      "last_updated": "1674609123",
+      "groups": {
+        "DTProject": "/proxy/api/mangadex/chapter/0a7511d6-d111-4c39-84f3-668dd48d373b"
+      }
+    },
     "78": {
       "title": "Вальпургиев Банкет",
       "volume": "",
