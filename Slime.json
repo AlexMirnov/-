@@ -5,69 +5,534 @@
   "author": "Fuse",
   "cover": "https://i.imgur.com/T8k13wY.jpg",
   "chapters": {
-        "85": {
-      "title": "На Святой Земле",
-      "volume": "",
+    "1": {
+      "title": "Смерть... и перерождение",
+      "volume": "1",
+      "last_updated": "1674605222",
       "groups": {
-        "Kuuderephile": "/proxy/api/imgur/chapter/zxxbN29/"
-      },
-      "last_updated": "1625245863"
+        "Viole": [
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/001/001.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/001/002.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/001/003.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/001/004.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/001/005-006.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/001/007.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/001/008.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/001/009.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/001/010.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/001/011.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/001/012.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/001/013.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/001/014.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/001/015.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/001/016.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/001/017.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/001/018.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/001/019.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/001/020.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/001/021.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/001/022.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/001/023.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/001/024.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/001/025.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/001/026.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/001/027.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/001/028.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/001/029.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/001/030.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/001/031.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/001/032.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/001/033.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/001/034.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/001/035.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/001/036.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/001/037.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/001/038.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/001/039.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/001/040.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/001/041.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/001/042.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/001/043.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/001/044.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/001/045.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/001/046.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/001/047.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/001/048.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/001/049.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/001/050.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/001/051.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/001/052.webp"
+        ]
+      }
     },
-        "84": {
-      "title": "Клоунская Труппа Умеренности",
-      "volume": "",
+    "2": {
+      "title": " Защитник деревни гоблинов ",
+      "volume": "1",
+      "last_updated": "1674605298",
       "groups": {
-        "Kuuderephile": "/proxy/api/imgur/chapter/7Oow7XB/"
-      },
-      "last_updated": "1619878747"
+        "Viole": [
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/002/001.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/002/002.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/002/003.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/002/004.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/002/005.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/002/007.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/002/008.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/002/009.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/002/010.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/002/011.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/002/012.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/002/013.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/002/014.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/002/015.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/002/016.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/002/017.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/002/018.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/002/019.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/002/020.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/002/021.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/002/022.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/002/023.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/002/024.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/002/025.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/002/026.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/002/027.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/002/028.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/002/029.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/002/030.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/002/031.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/002/032.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/002/033.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/002/034.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/002/035.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/002/036.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/002/037.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/002/038.webp"
+        ]
+      }
     },
-    "83": {
-      "title": "Безумный Пьеро",
-      "volume": "",
+    "3": {
+      "title": "Слизь vs Племя Клыкастых Волков ",
+      "volume": "1",
+      "last_updated": "1674605328",
       "groups": {
-        "Kuuderephile": "/proxy/api/imgur/chapter/MioAw3b/"
-      },
-      "last_updated": "1619878747"
+        "Viole": [
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/003/001.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/003/002.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/003/003.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/003/004.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/003/005.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/003/006.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/003/007.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/003/008.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/003/009.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/003/010.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/003/011.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/003/012.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/003/013.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/003/014.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/003/015.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/003/016.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/003/017.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/003/018.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/003/019-020.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/003/021.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/003/022.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/003/023.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/003/024.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/003/025.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/003/026.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/003/027.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/003/028.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/003/029.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/003/030.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/003/031.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/003/032.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/003/033.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/003/034.webp"
+        ]
+      }
     },
-    "82": {
-      "title": "Преданность Демона",
-      "volume": "",
+    "4": {
+      "title": "Пункт назначения - Королевство Гномов",
+      "volume": "1",
+      "last_updated": "1674605365",
       "groups": {
-        "Kuuderephile": "/proxy/api/imgur/chapter/rQeDyIV/"
-      },
-      "last_updated": "1619685293"
+        "Viole": [
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/004/001.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/004/002.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/004/003.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/004/004.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/004/005.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/004/006.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/004/007.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/004/008.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/004/009.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/004/010.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/004/011.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/004/012.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/004/013.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/004/014.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/004/015.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/004/016.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/004/017.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/004/018.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/004/019.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/004/020.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/004/021.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/004/022.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/004/023.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/004/024.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/004/025-026.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/004/027.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/004/028.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/004/029.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/004/030.webp"
+        ]
+      }
     },
-    "81": {
-      "title": "Король Мёртвых",
-      "volume": "",
+    "5": {
+      "title": "Гном-ремесленник",
+      "volume": "1",
+      "last_updated": "1674605407",
       "groups": {
-        "Kuuderephile": "/proxy/api/imgur/chapter/iyDtBmF/"
-      },
-      "last_updated": "1619685293"
+        "Viole": [
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/005/001.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/005/002.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/005/003.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/005/004.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/005/005.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/005/006.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/005/007.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/005/008.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/005/009.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/005/010.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/005/011.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/005/012.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/005/013.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/005/014.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/005/015.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/005/016.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/005/017.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/005/018.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/005/019.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/005/020.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/005/021.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/005/022.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/005/023.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/005/024.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/005/025.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/005/026.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/005/027.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/005/028.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/005/029.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/005/030.webp"
+        ]
+      }
     },
-    "80": {
-      "title": "Возвращение великого монстра",
-      "volume": "",
+    "6": {
+      "title": "Посланник судьбы ",
+      "volume": "1",
+      "last_updated": "1674605439",
       "groups": {
-        "Kuuderephile": "/proxy/api/imgur/chapter/iEAQI0g/"
-      },
-      "last_updated": "1619685293"
+        "Viole": [
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/006/001.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/006/002.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/006/003-004.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/006/005.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/006/006.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/006/007.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/006/008.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/006/009.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/006/010.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/006/011.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/006/012.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/006/013.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/006/014.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/006/015.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/006/016.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/006/017.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/006/018.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/006/019.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/006/020.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/006/021.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/006/022.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/006/023.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/006/024.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/006/025.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/006/026.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/006/027.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/006/028.webp"
+        ]
+      }
     },
-    "79": {
-      "title": "Битва",
-      "volume": "",
+    "7": {
+      "title": "Суд над слизнем",
+      "volume": "2",
+      "last_updated": "1674605519",
       "groups": {
-        "Kuuderephile": "/proxy/api/imgur/chapter/sDAYjU9/"
-      },
-      "last_updated": "1619685293"
+        "Vento of the Front": [
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/007/001.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/007/002.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/007/003.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/007/004.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/007/005-006.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/007/007.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/007/008.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/007/009.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/007/010.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/007/011.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/007/012.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/007/013.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/007/014.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/007/015.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/007/016.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/007/017.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/007/018.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/007/019.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/007/020.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/007/021.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/007/022.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/007/023.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/007/024.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/007/025.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/007/026.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/007/027.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/007/028.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/007/029.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/007/030.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/007/031.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/007/032.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/007/033.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/007/034.webp"
+        ]
+      }
+    },
+    "8": {
+      "title": "Знакомый аромат",
+      "volume": "2",
+      "last_updated": "1674605577",
+      "groups": {
+        "Vento of the Front": [
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/008/001.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/008/002.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/008/003.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/008/004.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/008/005.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/008/006.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/008/007.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/008/008.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/008/009.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/008/010.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/008/011.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/008/012.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/008/013.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/008/014.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/008/015.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/008/016.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/008/017.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/008/018.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/008/019.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/008/020.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/008/021.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/008/022.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/008/023.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/008/024.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/008/025.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/008/026.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/008/027.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/008/028.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/008/029.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/008/030.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/008/031.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/008/032.webp"
+        ]
+      }
+    },
+    "9": {
+      "title": "Огненный Демон",
+      "volume": "2",
+      "last_updated": "1674605626",
+      "groups": {
+        "Vento of the Front": [
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/009/001.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/009/002.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/009/003.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/009/004.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/009/005.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/009/006.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/009/007.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/009/008.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/009/009.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/009/010.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/009/011.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/009/012.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/009/013.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/009/014.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/009/015.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/009/016.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/009/017.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/009/018.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/009/019.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/009/020.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/009/021.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/009/022.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/009/023.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/009/024.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/009/025.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/009/026.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/009/027.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/009/028.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/009/029.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/009/030.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/009/031.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/009/032.webp"
+        ]
+      }
+    },
+    "10": {
+      "title": "Последняя воля",
+      "volume": "2",
+      "last_updated": "1674605675",
+      "groups": {
+        "Vento of the Front": "/proxy/api/mangadex/chapter/ad38dbdf-bb4a-4278-8d9d-ede683b726b3"
+      }
+    },
+    "11": {
+      "title": "Начало Беспорядков",
+      "volume": "2",
+      "last_updated": "1674605708",
+      "groups": {
+        "Vento of the Front": "/proxy/api/mangadex/chapter/0b7ac013-68ac-451b-bbff-5621016fde97"
+      }
+    },
+    "12": {
+      "title": "Сильнейший в Лесу Джура",
+      "volume": "3",
+      "last_updated": "1674605797",
+      "groups": {
+        "Vento of the Front": "/proxy/api/mangadex/chapter/7e450d9d-b880-4455-878b-fecf6be00f4a"
+      }
+    },
+    "13": {
+      "title": "Сильнейший в Лесу Джура 2",
+      "volume": "3",
+      "last_updated": "1674605852",
+      "groups": {
+        "Vento of the Front": "/proxy/api/mangadex/chapter/b2871a7e-2240-4f47-b9a7-ae2212981e04"
+      }
+    },
+    "14": {
+      "title": "Новый дом для огров",
+      "volume": "3",
+      "last_updated": "1674605884",
+      "groups": {
+        "Vento of the Front": "/proxy/api/mangadex/chapter/87d797f2-5261-4c79-9158-17026f963f0e"
+      }
     },
     "78": {
       "title": "Вальпургиев Банкет",
       "volume": "",
+      "last_updated": "1619685293",
       "groups": {
         "Kuuderephile": "/proxy/api/imgur/chapter/9iaKHbk/"
-      },
-      "last_updated": "1619685293"
+      }
+    },
+    "79": {
+      "title": "Битва",
+      "volume": "",
+      "last_updated": "1619685293",
+      "groups": {
+        "Kuuderephile": "/proxy/api/imgur/chapter/sDAYjU9/"
+      }
+    },
+    "80": {
+      "title": "Возвращение великого монстра",
+      "volume": "",
+      "last_updated": "1619685293",
+      "groups": {
+        "Kuuderephile": "/proxy/api/imgur/chapter/iEAQI0g/"
+      }
+    },
+    "81": {
+      "title": "Король Мёртвых",
+      "volume": "",
+      "last_updated": "1619685293",
+      "groups": {
+        "Kuuderephile": "/proxy/api/imgur/chapter/iyDtBmF/"
+      }
+    },
+    "82": {
+      "title": "Преданность Демона",
+      "volume": "",
+      "last_updated": "1619685293",
+      "groups": {
+        "Kuuderephile": "/proxy/api/imgur/chapter/rQeDyIV/"
+      }
+    },
+    "83": {
+      "title": "Безумный Пьеро",
+      "volume": "",
+      "last_updated": "1619878747",
+      "groups": {
+        "Kuuderephile": "/proxy/api/imgur/chapter/MioAw3b/"
+      }
+    },
+    "84": {
+      "title": "Клоунская Труппа Умеренности",
+      "volume": "",
+      "last_updated": "1619878747",
+      "groups": {
+        "Kuuderephile": "/proxy/api/imgur/chapter/7Oow7XB/"
+      }
+    },
+    "85": {
+      "title": "На Святой Земле",
+      "volume": "",
+      "last_updated": "1625245863",
+      "groups": {
+        "Kuuderephile": "/proxy/api/imgur/chapter/zxxbN29/"
+      }
+    },
+    "6.5": {
+      "title": "Журнал наблюдений Вельдоры",
+      "volume": "1",
+      "last_updated": "1674605471",
+      "groups": {
+        "DTProject": [
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/006.5/001.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/006.5/002.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/006.5/003.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/006.5/004.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/006.5/005.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/006.5/006.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/006.5/007.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/006.5/008.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/006.5/009.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/006.5/010.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/006.5/011.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/006.5/012.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/006.5/013.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/006.5/014.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/006.5/015.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/006.5/016.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/006.5/017.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/006.5/018.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/006.5/019.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/006.5/020.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/006.5/021.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/006.5/022.webp",
+          "https://raw.githubusercontent.com/Kuuderephile/site/main/slime_chapter/006.5/023.webp"
+        ]
+      }
+    },
+    "11.5": {
+      "title": "Ошеломляющие события",
+      "volume": "2",
+      "last_updated": "1674605762",
+      "groups": {
+        "DTProject": "/proxy/api/mangadex/chapter/ec4121ff-6702-4d12-9912-814845f33536"
+      }
     }
   }
 }
