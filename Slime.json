@@ -830,6 +830,102 @@
         "DTProject": "/proxy/api/mangadex/chapter/0a7511d6-d111-4c39-84f3-668dd48d373b"
       }
     },
+    "66": {
+      "title": "Безжалостный",
+      "volume": "14",
+      "last_updated": "1674616571",
+      "groups": {
+        "DTProject": "/proxy/api/mangadex/chapter/9877d7ae-de85-4c0b-b7e2-66877b2148f4"
+      }
+    },
+    "67": {
+      "title": "Благородный демон",
+      "volume": "14",
+      "last_updated": "1674616642",
+      "groups": {
+        "Альянс \"Кусторников\"": "/proxy/api/mangadex/chapter/6d97da79-e9bf-4938-bd3a-a0e513f191da"
+      }
+    },
+    "68": {
+      "title": "Рождение демон лорда",
+      "volume": "15",
+      "last_updated": "1674616682",
+      "groups": {
+        "Альянс \"Кусторников\"": "/proxy/api/mangadex/chapter/61645c70-2b98-4fe8-86e0-c81c489c43a4"
+      }
+    },
+    "69": {
+      "title": "Праздник возрождения в Темпесте",
+      "volume": "15",
+      "last_updated": "1674616731",
+      "groups": {
+        "Альянс \"Кусторников\"": "/proxy/api/mangadex/chapter/81fb7177-1bdc-4b3d-bcbd-eaa01cbcd413"
+      }
+    },
+    "70": {
+      "title": "Королевство зверей. День разрушения.",
+      "volume": "15",
+      "last_updated": "1674616784",
+      "groups": {
+        "Альянс \"Кусторников\"": "/proxy/api/mangadex/chapter/dd5c3821-3fe2-4e27-add7-82ebf9042792"
+      }
+    },
+    "71": {
+      "title": "Те, кого разделяло время",
+      "volume": "16",
+      "last_updated": "1674616837",
+      "groups": {
+        "Альянс \"Кусторников\"": "/proxy/api/mangadex/chapter/0063ee90-51c2-455c-8f3f-f6b243914493"
+      }
+    },
+    "72": {
+      "title": "Водоворот заговора",
+      "volume": "16",
+      "last_updated": "1674616872",
+      "groups": {
+        "Альянс \"Кусторников\"": "/proxy/api/mangadex/chapter/0dc8e48e-7aac-4338-8319-51406cada3d1"
+      }
+    },
+    "73": {
+      "title": "План колдунов",
+      "volume": "16",
+      "last_updated": "1674616908",
+      "groups": {
+        "Альянс \"Кусторников\"": "/proxy/api/mangadex/chapter/c8d0d463-e8a5-4e4c-bbff-13671ecebbab"
+      }
+    },
+    "74": {
+      "title": "Встреча людей и демонов",
+      "volume": "16",
+      "last_updated": "1674616981",
+      "groups": {
+        "Альянс \"Кусторников\"": "/proxy/api/mangadex/chapter/1c54cfec-e607-42e8-b175-9fa5558aa364"
+      }
+    },
+    "75": {
+      "title": "Разговор демонов и людей.",
+      "volume": "17",
+      "last_updated": "1674617015",
+      "groups": {
+        "Альянс \"Кусторников\"": "/proxy/api/mangadex/chapter/e6b33e88-2ee0-4fe5-8a0b-e799a5a88801"
+      }
+    },
+    "76": {
+      "title": "Демон лорды и виды драконов",
+      "volume": "17",
+      "last_updated": "1674617055",
+      "groups": {
+        "Альянс \"Кусторников\"": "/proxy/api/mangadex/chapter/1b539853-106b-4528-8005-f82dee65b8dd"
+      }
+    },
+    "77": {
+      "title": "Ночь перед боем",
+      "volume": "17",
+      "last_updated": "1674617086",
+      "groups": {
+        "Альянс \"Кусторников\"": "/proxy/api/mangadex/chapter/682a50b2-9cc5-4acf-a6d5-ab9a5b146744"
+      }
+    },
     "78": {
       "title": "Вальпургиев Банкет",
       "volume": "",
