@@ -507,7 +507,35 @@
       "volume": "5",
       "last_updated": "1674606535",
       "groups": {
-        "DTProject": "/proxy/api/mangadex/chapter/e0019501-0a97-4ed3-b42c-8d5df0db0a73"
+        "DTProject": [
+          "https://raw.githubusercontent.com/localKP1/files/main/Slime/024/1.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Slime/024/2.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Slime/024/3.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Slime/024/4.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Slime/024/5.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Slime/024/6.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Slime/024/7.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Slime/024/8.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Slime/024/9.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Slime/024/10.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Slime/024/11.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Slime/024/12.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Slime/024/13.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Slime/024/14.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Slime/024/15.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Slime/024/16.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Slime/024/17.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Slime/024/18.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Slime/024/19.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Slime/024/20.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Slime/024/21.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Slime/024/22.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Slime/024/23.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Slime/024/24.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Slime/024/25.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Slime/024/26.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Slime/024/27.webp"
+        ]
       }
     },
     "26": {
