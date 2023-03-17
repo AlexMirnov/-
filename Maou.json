@@ -5,261 +5,327 @@
   "author": "Tsukiyo Rui",
   "cover": "https://i.imgur.com/FFpqaNE.jpg",
   "chapters": {
-                "31": {
+    "1": {
       "title": "Глава",
       "volume": "",
+      "last_updated": "1629788981",
       "groups": {
-        "Kuuderephile": "/proxy/api/imgur/chapter/bcCtvpU/"
-      },
-      "last_updated": "1642430165"
-    },  
-                "30": {
-      "title": "Глава",
-      "volume": "",
-      "groups": {
-        "Kuuderephile": "/proxy/api/imgur/chapter/GmdW8u0/"
-      },
-      "last_updated": "1642430165"
-    },  
-                "29": {
-      "title": "Глава",
-      "volume": "",
-      "groups": {
-        "Kuuderephile": "/proxy/api/imgur/chapter/z8Aqe0N/"
-      },
-      "last_updated": "1634402614"
-    }, 
-            "28": {
-      "title": "Глава",
-      "volume": "",
-      "groups": {
-        "Kuuderephile": "/proxy/api/imgur/chapter/GfHu1Hs/"
-      },
-      "last_updated": "1629788981"
-    },    
-            "27": {
-      "title": "Глава",
-      "volume": "",
-      "groups": {
-        "Rebirth Team": "/proxy/api/imgur/chapter/w8FqmTp/"
-      },
-      "last_updated": "1629788981"
-    },    
-            "26": {
-      "title": "Глава",
-      "volume": "",
-      "groups": {
-        "Rebirth Team": "/proxy/api/imgur/chapter/x0WUIoQ/"
-      },
-      "last_updated": "1629788981"
-    },    
-            "25": {
-      "title": "Глава",
-      "volume": "",
-      "groups": {
-        "Rebirth Team": "/proxy/api/imgur/chapter/EuCtyXX/"
-      },
-      "last_updated": "1629788981"
-    },    
-            "24": {
-      "title": "Глава",
-      "volume": "",
-      "groups": {
-        "Rebirth Team": "/proxy/api/imgur/chapter/N6xZmwn/"
-      },
-      "last_updated": "1629788981"
-    },    
-            "23": {
-      "title": "Глава",
-      "volume": "",
-      "groups": {
-        "Rebirth Team": "/proxy/api/imgur/chapter/TGPkW67/"
-      },
-      "last_updated": "1629788981"
-    },    
-            "22": {
-      "title": "Глава",
-      "volume": "",
-      "groups": {
-        "Rebirth Team": "/proxy/api/imgur/chapter/a4m51FJ/"
-      },
-      "last_updated": "1629788981"
-    },    
-            "21": {
-      "title": "Глава",
-      "volume": "",
-      "groups": {
-        "Rebirth Team": "/proxy/api/imgur/chapter/ZIHeYNc/"
-      },
-      "last_updated": "1629788981"
-    },    
-            "20.1": {
-      "title": "Глава",
-      "volume": "",
-      "groups": {
-        "Rebirth Team": "/proxy/api/imgur/chapter/DoFUhPb/"
-      },
-      "last_updated": "1629788981"
-    },    
-            "20": {
-      "title": "Глава",
-      "volume": "",
-      "groups": {
-        "Rebirth Team": "/proxy/api/imgur/chapter/9ClJtD6/"
-      },
-      "last_updated": "1629788981"
-    },    
-            "19": {
-      "title": "Глава",
-      "volume": "",
-      "groups": {
-        "Rebirth Team": "/proxy/api/imgur/chapter/ao49zsf/"
-      },
-      "last_updated": "1629788981"
-    },    
-            "18": {
-      "title": "Глава",
-      "volume": "",
-      "groups": {
-        "Rebirth Team": "/proxy/api/imgur/chapter/NYguW06/"
-      },
-      "last_updated": "1629788981"
-    },    
-            "17": {
-      "title": "Глава",
-      "volume": "",
-      "groups": {
-        "Rebirth Team": "/proxy/api/imgur/chapter/7HuAUVW/"
-      },
-      "last_updated": "1629788981"
-    },    
-            "16": {
-      "title": "Глава",
-      "volume": "",
-      "groups": {
-        "Rebirth Team": "/proxy/api/imgur/chapter/0w8MTJc/"
-      },
-      "last_updated": "1629788981"
-    },    
-            "15": {
-      "title": "Глава",
-      "volume": "",
-      "groups": {
-        "Rebirth Team": "/proxy/api/imgur/chapter/J6ZK4PS/"
-      },
-      "last_updated": "1629788981"
-    },    
-            "14": {
-      "title": "Глава",
-      "volume": "",
-      "groups": {
-        "Rebirth Team": "/proxy/api/imgur/chapter/SZexDSr/"
-      },
-      "last_updated": "1629788981"
-    },    
-            "13": {
-      "title": "Глава",
-      "volume": "",
-      "groups": {
-        "Rebirth Team": "/proxy/api/imgur/chapter/X0GSjga/"
-      },
-      "last_updated": "1629788981"
-    },    
-            "12": {
-      "title": "Глава",
-      "volume": "",
-      "groups": {
-        "Rebirth Team": "/proxy/api/imgur/chapter/P99cF3r/"
-      },
-      "last_updated": "1629788981"
-    },    
-            "11": {
-      "title": "Глава",
-      "volume": "",
-      "groups": {
-        "Rebirth Team": "/proxy/api/imgur/chapter/ol9J163/"
-      },
-      "last_updated": "1629788981"
-    },    
-            "10": {
-      "title": "Глава",
-      "volume": "",
-      "groups": {
-        "Rock Bang Gang": "/proxy/api/imgur/chapter/FZaed9R/"
-      },
-      "last_updated": "1629788981"
-    },
-            "9": {
-      "title": "Глава",
-      "volume": "",
-      "groups": {
-        "Rock Bang Gang": "/proxy/api/imgur/chapter/vMNKXp8/"
-      },
-      "last_updated": "1629788981"
-    },
-        "8": {
-      "title": "Глава",
-      "volume": "",
-      "groups": {
-        "Rock Bang Gang": "/proxy/api/imgur/chapter/gTvPwHx/"
-      },
-      "last_updated": "1629788981"
-    },
-        "7": {
-      "title": "Глава",
-      "volume": "",
-      "groups": {
-        "Rock Bang Gang": "/proxy/api/imgur/chapter/IwzjU59/"
-      },
-      "last_updated": "1629788981"
-    },
-    "6": {
-      "title": "Глава",
-      "volume": "",
-      "groups": {
-        "YANowo Iten": "/proxy/api/imgur/chapter/7ikHKCh/"
-      },
-      "last_updated": "1629788981"
-    },
-    "5": {
-      "title": "Глава",
-      "volume": "",
-      "groups": {
-        "Rock Bang Gang": "/proxy/api/imgur/chapter/bkokUuD/"
-      },
-      "last_updated": "1629788981"
-    },
-    "4": {
-      "title": "Глава",
-      "volume": "",
-      "groups": {
-        "Rock Bang Gang": "/proxy/api/imgur/chapter/uXGCBTX/"
-      },
-      "last_updated": "1629788981"
-    },
-    "3": {
-      "title": "Глава",
-      "volume": "",
-      "groups": {
-        "Rock Bang Gang": "/proxy/api/imgur/chapter/W0UHsUG/"
-      },
-      "last_updated": "1629788981"
+        "Rock Bang Gang": "/proxy/api/imgur/chapter/bSWAAxd/"
+      }
     },
     "2": {
       "title": "Глава",
       "volume": "",
+      "last_updated": "1629788981",
       "groups": {
         "Rock Bang Gang": "/proxy/api/imgur/chapter/AqRukdK/"
-      },
-      "last_updated": "1629788981"
+      }
     },
-    "1": {
+    "3": {
       "title": "Глава",
       "volume": "",
+      "last_updated": "1629788981",
       "groups": {
-        "Rock Bang Gang": "/proxy/api/imgur/chapter/bSWAAxd/"
-      },
-      "last_updated": "1629788981"
+        "Rock Bang Gang": "/proxy/api/imgur/chapter/W0UHsUG/"
+      }
+    },
+    "4": {
+      "title": "Глава",
+      "volume": "",
+      "last_updated": "1629788981",
+      "groups": {
+        "Rock Bang Gang": "/proxy/api/imgur/chapter/uXGCBTX/"
+      }
+    },
+    "5": {
+      "title": "Глава",
+      "volume": "",
+      "last_updated": "1629788981",
+      "groups": {
+        "Rock Bang Gang": "/proxy/api/imgur/chapter/bkokUuD/"
+      }
+    },
+    "6": {
+      "title": "Глава",
+      "volume": "",
+      "last_updated": "1629788981",
+      "groups": {
+        "YANowo Iten": "/proxy/api/imgur/chapter/7ikHKCh/"
+      }
+    },
+    "7": {
+      "title": "Глава",
+      "volume": "",
+      "last_updated": "1629788981",
+      "groups": {
+        "Rock Bang Gang": "/proxy/api/imgur/chapter/IwzjU59/"
+      }
+    },
+    "8": {
+      "title": "Глава",
+      "volume": "",
+      "last_updated": "1629788981",
+      "groups": {
+        "Rock Bang Gang": "/proxy/api/imgur/chapter/gTvPwHx/"
+      }
+    },
+    "9": {
+      "title": "Глава",
+      "volume": "",
+      "last_updated": "1629788981",
+      "groups": {
+        "Rock Bang Gang": "/proxy/api/imgur/chapter/vMNKXp8/"
+      }
+    },
+    "10": {
+      "title": "Глава",
+      "volume": "",
+      "last_updated": "1629788981",
+      "groups": {
+        "Rock Bang Gang": "/proxy/api/imgur/chapter/FZaed9R/"
+      }
+    },
+    "11": {
+      "title": "Глава",
+      "volume": "",
+      "last_updated": "1629788981",
+      "groups": {
+        "Rebirth Team": "/proxy/api/imgur/chapter/ol9J163/"
+      }
+    },
+    "12": {
+      "title": "Глава",
+      "volume": "",
+      "last_updated": "1629788981",
+      "groups": {
+        "Rebirth Team": "/proxy/api/imgur/chapter/P99cF3r/"
+      }
+    },
+    "13": {
+      "title": "Глава",
+      "volume": "",
+      "last_updated": "1629788981",
+      "groups": {
+        "Rebirth Team": "/proxy/api/imgur/chapter/X0GSjga/"
+      }
+    },
+    "14": {
+      "title": "Глава",
+      "volume": "",
+      "last_updated": "1629788981",
+      "groups": {
+        "Rebirth Team": "/proxy/api/imgur/chapter/SZexDSr/"
+      }
+    },
+    "15": {
+      "title": "Глава",
+      "volume": "",
+      "last_updated": "1629788981",
+      "groups": {
+        "Rebirth Team": "/proxy/api/imgur/chapter/J6ZK4PS/"
+      }
+    },
+    "16": {
+      "title": "Глава",
+      "volume": "",
+      "last_updated": "1629788981",
+      "groups": {
+        "Rebirth Team": "/proxy/api/imgur/chapter/0w8MTJc/"
+      }
+    },
+    "17": {
+      "title": "Глава",
+      "volume": "",
+      "last_updated": "1629788981",
+      "groups": {
+        "Rebirth Team": "/proxy/api/imgur/chapter/7HuAUVW/"
+      }
+    },
+    "18": {
+      "title": "Глава",
+      "volume": "",
+      "last_updated": "1629788981",
+      "groups": {
+        "Rebirth Team": "/proxy/api/imgur/chapter/NYguW06/"
+      }
+    },
+    "19": {
+      "title": "Глава",
+      "volume": "",
+      "last_updated": "1629788981",
+      "groups": {
+        "Rebirth Team": "/proxy/api/imgur/chapter/ao49zsf/"
+      }
+    },
+    "20": {
+      "title": "Глава",
+      "volume": "",
+      "last_updated": "1629788981",
+      "groups": {
+        "Rebirth Team": "/proxy/api/imgur/chapter/9ClJtD6/"
+      }
+    },
+    "21": {
+      "title": "Глава",
+      "volume": "",
+      "last_updated": "1629788981",
+      "groups": {
+        "Rebirth Team": "/proxy/api/imgur/chapter/ZIHeYNc/"
+      }
+    },
+    "22": {
+      "title": "Глава",
+      "volume": "",
+      "last_updated": "1629788981",
+      "groups": {
+        "Rebirth Team": "/proxy/api/imgur/chapter/a4m51FJ/"
+      }
+    },
+    "23": {
+      "title": "Глава",
+      "volume": "",
+      "last_updated": "1629788981",
+      "groups": {
+        "Rebirth Team": "/proxy/api/imgur/chapter/TGPkW67/"
+      }
+    },
+    "24": {
+      "title": "Глава",
+      "volume": "",
+      "last_updated": "1629788981",
+      "groups": {
+        "Rebirth Team": "/proxy/api/imgur/chapter/N6xZmwn/"
+      }
+    },
+    "25": {
+      "title": "Глава",
+      "volume": "",
+      "last_updated": "1629788981",
+      "groups": {
+        "Rebirth Team": "/proxy/api/imgur/chapter/EuCtyXX/"
+      }
+    },
+    "26": {
+      "title": "Глава",
+      "volume": "",
+      "last_updated": "1629788981",
+      "groups": {
+        "Rebirth Team": "/proxy/api/imgur/chapter/x0WUIoQ/"
+      }
+    },
+    "27": {
+      "title": "Глава",
+      "volume": "",
+      "last_updated": "1629788981",
+      "groups": {
+        "Rebirth Team": "/proxy/api/imgur/chapter/w8FqmTp/"
+      }
+    },
+    "28": {
+      "title": "Глава",
+      "volume": "",
+      "last_updated": "1629788981",
+      "groups": {
+        "Kuuderephile": "/proxy/api/imgur/chapter/GfHu1Hs/"
+      }
+    },
+    "29": {
+      "title": "Глава",
+      "volume": "",
+      "last_updated": "1634402614",
+      "groups": {
+        "Kuuderephile": "/proxy/api/imgur/chapter/z8Aqe0N/"
+      }
+    },
+    "30": {
+      "title": "Глава",
+      "volume": "",
+      "last_updated": "1642430165",
+      "groups": {
+        "Kuuderephile": "/proxy/api/imgur/chapter/GmdW8u0/"
+      }
+    },
+    "31": {
+      "title": "Глава",
+      "volume": "",
+      "last_updated": "1642430165",
+      "groups": {
+        "Kuuderephile": "/proxy/api/imgur/chapter/bcCtvpU/"
+      }
+    },
+    "36": {
+      "title": "Тот, кто пляшет на ладони своего врага",
+      "volume": "",
+      "last_updated": "1679048896",
+      "groups": {
+        "Kuuderephile & Fairy01": [
+          "https://raw.githubusercontent.com/localKP1/files/main/Demon/036/002.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Demon/036/003.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Demon/036/004.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Demon/036/005.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Demon/036/006.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Demon/036/007.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Demon/036/008.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Demon/036/009.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Demon/036/010.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Demon/036/011.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Demon/036/012.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Demon/036/013.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Demon/036/014.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Demon/036/015.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Demon/036/016.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Demon/036/017.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Demon/036/018.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Demon/036/019.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Demon/036/020.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Demon/036/021.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Demon/036/022.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Demon/036/023.webp"
+        ]
+      }
+    },
+    "37": {
+      "title": "Сила Владыки Демонов [Времени]",
+      "volume": "",
+      "last_updated": "1679049103",
+      "groups": {
+        "Kuuderephile & Fairy01": [
+          "https://raw.githubusercontent.com/localKP1/files/main/Demon/037/002.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Demon/037/003.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Demon/037/004.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Demon/037/005.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Demon/037/006.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Demon/037/007.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Demon/037/008.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Demon/037/009.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Demon/037/010.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Demon/037/011.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Demon/037/012.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Demon/037/013.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Demon/037/014.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Demon/037/015.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Demon/037/016.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Demon/037/017.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Demon/037/018.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Demon/037/019.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Demon/037/020.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Demon/037/021.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Demon/037/022.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Demon/037/023.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Demon/037/024.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Demon/037/025.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Demon/037/026.webp",
+          "https://raw.githubusercontent.com/localKP1/files/main/Demon/037/027.webp"
+        ]
+      }
+    },
+    "20.1": {
+      "title": "Глава",
+      "volume": "",
+      "last_updated": "1629788981",
+      "groups": {
+        "Rebirth Team": "/proxy/api/imgur/chapter/DoFUhPb/"
+      }
     }
   }
 }
